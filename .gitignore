@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+uploads/
+chroma_db/
+documind.db
+*.db
+.DS_Store
+.vscode/
+*.egg-info/
+*.log
